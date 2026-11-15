@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Temporary files
+*.log
+*.tmp
+
+# Large datasets and generated files
+combined_data_1.txt
+combined_data_1.txt.zip
+processed_ratings.csv
+
+# Operating system
+.DS_Store
+Thumbs.db
