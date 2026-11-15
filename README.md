@@ -2,6 +2,8 @@
 
 A Machine Learning-based movie recommendation system developed using Python and Singular Value Decomposition (SVD).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Netflix-Movie-Recommendation-System/blob/main/Netflix_Recommendation_Engine.ipynb)
+
 ## 📌 Project Overview
 
 This project aims to build a personalized movie recommendation engine that predicts user ratings and recommends movies based on historical user-rating patterns.
